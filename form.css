@@ -1,0 +1,23 @@
+.success {
+    padding: 10px 5px;
+    background-color: #43e478;
+    border: solid 1px rgb(0,182,24);
+    border-radius: 5px;
+    text-align: center;
+}
+
+.error {
+    padding: 10px 5px !important;
+    background-color: #ff8585 !important;
+    border: solid 1px rgb(182,27,0) !important;
+    border-radius: 5px !important;
+    text-align: center !important;
+}
+
+.accepted {
+    border: 2px solid rgb(0,182,24);
+}
+
+.rejected {
+    border: 2px solid rgb(182,27,0);
+}

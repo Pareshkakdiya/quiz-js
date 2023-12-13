@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Customer Feedback</h1>
+        <form onsubmit="displayData(event)" class="feedback-form">
+            <div>
+            <input onkeyup="usernameValidation(event)" type="text" id="username" placeholder="Username" autocomplete="off">
+        </div>
+        <br>
+        <div>
+            <textarea id="feedback" placeholder="Feedback" autocomplete="off"></textarea>
+        </div>
+        <br>
+        <div>
+            <input type="submit" id="submit" value="submit"> 
+        </div>
+        </form>
+        <p></p>
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>

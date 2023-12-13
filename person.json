@@ -1,0 +1,23 @@
+[
+    {
+        "name" : "Rushabh Kakde",
+        "age" : 25,
+        "email" : "rushabh@gmail.con"
+    },
+    {
+        "name" : "Ratan gun",
+        "age" : 26,
+        "email" : "rushabh@gmail.con"
+    }, 
+    {
+        "name" : "Ritu romia",
+        "age" : 28,
+        "email" : "ritu@gmail.con"
+    },
+    {
+        "name" : "Kumar",
+        "age" : 23,
+        "email" : "kumar@gmail.con"
+    }
+
+]
