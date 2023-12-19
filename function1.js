@@ -68,4 +68,3 @@
  students.forEach((student) => {
     console.log(student);
 });
-

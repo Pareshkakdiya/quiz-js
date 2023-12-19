@@ -71,6 +71,8 @@ searchForm.addEventListener("click",(event) => {
     }
 });
 
+localStorage.removeItem("name");
+localStorage.clear();
 
 
 
